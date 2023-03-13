@@ -1,5 +1,5 @@
-# Digital-Caliper-ReadOut
-INSIZE Digital Caliper ReadOut.
+# INSIZE Digital Caliper ReadOut
+
 This project is based on the Curious Scientist's Project and includes some changes that have been made to the circuit and codes.
 https://curiousscientist.tech/blog/caliper-based-dro
 
