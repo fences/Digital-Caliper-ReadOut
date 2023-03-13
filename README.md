@@ -4,6 +4,7 @@ One of the features of digital calipers is the possibility of connecting them to
 This project is based on the Curious Scientist's Project and I changed some codes and circuits because of INSIZE Caliper.
 https://curiousscientist.tech/blog/caliper-based-dro
 
+![final](https://user-images.githubusercontent.com/4406327/224682633-5c9f7f4e-7946-4b47-8845-6b75ea930aaf.jpeg)
 ![Results](https://user-images.githubusercontent.com/4406327/224627864-90071a15-cd46-4c38-a2d5-5713857dbb9c.jpeg)
 Schematic of Projects:
 ![Schematic](https://user-images.githubusercontent.com/4406327/224628284-c323db76-a3b1-4632-b005-3a536cdd90eb.jpg)
